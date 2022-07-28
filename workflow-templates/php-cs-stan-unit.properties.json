@@ -1,0 +1,5 @@
+{
+    "name": "PHP CS STAN UNIT Workflow",
+    "description": "PHP workflow that launches phpcs, phpstan, phpunit (with multiple php versions: 7.4, 8.0, 8.1).",
+    "iconName": "bedita"
+}
