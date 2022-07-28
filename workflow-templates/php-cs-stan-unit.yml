@@ -11,6 +11,7 @@ on:
       - '**/*.php'
       - '.github/workflows/php.yml'
       - 'composer.json'
+  workflow_call:
 
 jobs:
   cs:
